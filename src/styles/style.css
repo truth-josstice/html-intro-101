@@ -1,0 +1,18 @@
+header {
+    background-color:palevioletred;
+}
+
+/* section.movieCard {
+
+
+}
+
+main.movieCard > section.movieCard {
+
+} */
+
+main.movieList {
+    section.movieCard {
+        background-color: palegreen;
+    }
+}
